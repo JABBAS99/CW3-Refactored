@@ -69,7 +69,7 @@ export default {
   },
   mounted() {
     fetch("https://student-app-mbou.herokuapp.com/lessons").then(res=>res.json()).then((res) => {
-      // console.log(res,'asdasdasd')
+      // console.log(res,'asdasdbjhasd')
       this.Lessons = res;
     });
   },
