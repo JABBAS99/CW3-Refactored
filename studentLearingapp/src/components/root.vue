@@ -53,7 +53,6 @@
 <script>
 import CheckOut from "./CheckOut.vue";
 import Lessons from "./Lessons.vue";
-// import axios from "axios";
 export default {
   name: "root",
   data() {
